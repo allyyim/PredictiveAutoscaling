@@ -1,0 +1,2 @@
+The Predictive Autoscaling Solution is a console application designed to enhance the Azure Monitor organization's system by predicting when to scale resources up or down. By leveraging historical observability data and advanced machine learning models using Microsoft ML, the solution forecasts demand and, in the future, will automatically adjust resources. This intelligent scaling approach ensures optimal performance and cost efficiency, helping the team maintain a balanced and responsive infrastructure.
+

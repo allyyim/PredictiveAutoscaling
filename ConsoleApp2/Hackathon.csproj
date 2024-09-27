@@ -9,11 +9,16 @@
 
   <ItemGroup>
     <PackageReference Include="Azure.Core" Version="1.43.0" />
+    <PackageReference Include="Microsoft.AspNet.WebPages" Version="3.3.0" />
     <PackageReference Include="Microsoft.Cloud.Metrics.Client" Version="2.2024.918.1919" />
     <PackageReference Include="Microsoft.Identity.Client" Version="4.64.1" />
     <PackageReference Include="Microsoft.ML" Version="3.0.1" />
+    <PackageReference Include="Microsoft.ML.TimeSeries" Version="3.0.1" />
     <PackageReference Include="MiNET" Version="1.0.2304" />
     <PackageReference Include="OxyPlot.Core" Version="2.2.0" />
+    <PackageReference Include="OxyPlot.WindowsForms" Version="2.2.0" />
+    <PackageReference Include="OxyPlot.Wpf" Version="2.2.0" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.8" />
   </ItemGroup>
 
 </Project>
